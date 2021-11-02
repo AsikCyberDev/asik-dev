@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 -->
-<a href="https://app.daily.dev/asik_dev"><img src="https://api.daily.dev/devcards/e415b877d43d4f18837a47775ad858ff.png?r=tro" width="400" alt="Asik Mydeen's Dev Card"/></a>
+<a href="https://app.daily.dev/asik_dev"><img src="https://api.daily.dev/devcards/e415b877d43d4f18837a47775ad858ff.png?r=nsp" width="400" alt="Asik Mydeen's Dev Card"/></a>
